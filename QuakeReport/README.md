@@ -20,4 +20,4 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-And can be shown the earthquakes according sorted by either magnitude or most recent.
+And the earthquakes sorted  by either magnitude  or most recent earthquakes in the world according to user choice.
