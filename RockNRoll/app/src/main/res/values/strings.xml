@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rock N Roll Store</string>
+    <string name="address">Inside CET Campus, BBSR ,Odisha .</string>
+    <string name="open">From Mon to Sat   (8AM to 8PM)</string>
+    <string name="description">"We serve Cofee,cold drinks, chocolates ,Groceries ,Ice cream and many more ."</string>
+    <string name="shop_name">AJAD Bhai\'S Store</string>
+    <string name="phone">+919778428629</string>
+</resources>
